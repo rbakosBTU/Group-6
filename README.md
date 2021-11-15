@@ -1,2 +1,3 @@
 # Assingment-2a
-Domain
+Domain Name: smartchargers.com
+Link of availability: https://www.name.com/domain/search/smartchargers.com
