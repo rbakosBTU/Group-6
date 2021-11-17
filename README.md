@@ -1,7 +1,7 @@
 # Assingment-2a
  							Ahmad Albenny 
  							Priyanka Balaji
-### The official Name:
+### The Official Name:
 **CHARGERS**
 
 ### Location:
