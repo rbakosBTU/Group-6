@@ -1,6 +1,6 @@
 # Assingment-2a
- 								 Ahmad Albenny 
- 								 Priyanka Balaji
+ 							Ahmad Albenny 
+ 							Priyanka Balaji
 ### The official Name:
 **CHARGERS**
 
