@@ -4,10 +4,10 @@
 ### The official Name:
 **CHARGERS**
 
-### Business Location:
+### Location:
   Platz der Deutschen Einheit 1, 03046 Cottbus, Brandenburg, Germany. 
 
-### Contact information: 
+### Contact: 
 
   	E-mail:
   	Phone :
@@ -18,5 +18,6 @@
 ### Vision of CHRAGERS:
 
 	
-Domain Name: smartchargers.com
-Link of availability: https://www.name.com/domain/search/smartchargers.com
+### Domain Name: 
+	smartchargers.com
+*Link of availability: https://www.name.com/domain/search/smartchargers.com*
