@@ -12,7 +12,7 @@
 
   	E-mail:albenahm@b-tu.de
   	Phone : 015756462869
-  	Social media: https://instagram.com/chargers_shoe?utm_medium=copy_link
+  	Social media: https://instagram.com/chargers_shoe?utm_medium=copy_link 
 		
 	
 ### How CHARGERS Started:
