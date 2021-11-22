@@ -1,6 +1,7 @@
 # Assingment-2a
- 							Ahmad Albenny 
- 							Priyanka Balaji
+ 							Ahmad Albenny - albenahm
+ 							Priyanka Balaji - balajpri2021
+        
 ### The Official Name:
 **CHARGERS**
 
@@ -11,7 +12,7 @@
 
   	E-mail:albenahm@b-tu.de
   	Phone : 015756462869
-  	Social media: 
+  	Social media: https://instagram.com/chargers_shoe?utm_medium=copy_link 
 		
 	
 ### How CHARGERS Started:
