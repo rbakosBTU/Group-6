@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e882c3ce-f250-4fe9-b2bd-ea7211e876a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AS2/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Careers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Privacy Policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/Social media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/markt/Children.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/markt/Men.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/markt/Store.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/markt/Women.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/user system/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/user system/Logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/user system/Profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AS2/user system/passwordForget.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21EaTz4UjzK7UzLXGL0vaVPUfBJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AS2/user system" />
+      <recent name="$PROJECT_DIR$/AS2/markt" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e882c3ce-f250-4fe9-b2bd-ea7211e876a6" name="Default Changelist" comment="" />
+      <created>1637508711649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637508711649</updated>
+      <workItem from="1637508715317" duration="3919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
