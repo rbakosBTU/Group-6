@@ -1,4 +1,4 @@
-#                                Assingment-2a
+#Assingment-2a
  							Ahmad Albenny - albenahm
  							Priyanka Balaji - balajpri2021
         
@@ -32,3 +32,9 @@
 ### Domain Name: 
 	smartchargers.com
 *Link of availability: https://www.name.com/domain/search/smartchargers.com*
+
+#### For Developer understanding:
+    Our product is a smart shoe that generates electricity through movement which is stored in a mobile battery which will be useful for the users to carry them anywhere the want
+    without searching for sockets and take chargers along with them. The shoe has a pedometer and a location sensor that helps users to tracke their footsteps. Our smart shoe is a multi-purpose
+    shoe which can be used for fitness, as a tracker as well as for charging the mobile phone. We like to have a store in our website which offer different models of shoes it can be casual, formal,
+    sporty etc., for men, women and children. Also the slogan to be added for our website will be "CHARGERS"- The shoe that keeps you going.
