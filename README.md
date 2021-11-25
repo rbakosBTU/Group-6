@@ -39,7 +39,8 @@
     anywhere the user wants without searching for sockets and take chargers along with them. The shoe has a pedometer and a location sensor that helps users to tracke their footsteps. 
     Our smart shoe is a multi-purpose shoe which can be used for fitness, as a tracker as well as for charging the mobile phone. We like to have a store in our website which offer 
     different models of shoes it can be casual, formal, sporty etc., for men, women and children. Also the slogan to be added for our website which will be as follows and, this
-    slogan is to be added as a crawler it should start repeating after the last letter ends.  
+    slogan is to be added as a crawler(TOP) it should start repeating after the last letter ends.  
                                   
                                 "CHARGERS-The shoe that keeps you going"
+* We have provided you with our shoe design video which is to be played at the main page indefinitely.
 
