@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--For DEVELOPER USE-->
+<Table>
+ <user>
+  <name>Pika</name>
+  <password>Giada@De1 </password>
+  <Phone>051249189</Phone>
+  <email>pikaboo@gmail.com</email>
+ </user>
+
+ <user>
+  <name>Mary</name>
+  <password>Rowling#@91</password>
+  <Phone>089101184</Phone>
+  <email>MaryTaylor@zohomails.com</email>
+ </user>
+
+ <user>
+  <name>James</name>
+  <password>J@mes007</password>
+  <Phone>039876098</Phone>
+  <email>mailtojamesbond007@yahoo.com</email>
+ </user>
+
+ <user>
+  <name>William</name>
+  <password>D$v3DW</password>
+  <Phone>0710729619</Phone>
+  <email>willyd@yahoo.com</email>
+ </user>
+</Table>
