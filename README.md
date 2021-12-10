@@ -49,9 +49,9 @@
 
 # Assingment-2b
 
-###Client: Group 8 
-###Bread and Butter.Co, Est.1978
-####Name:
+### Client: Group 8 
+### Bread and Butter.Co, Est.1978
+#### Name:
         Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian
 ## Developers Responsible: 
     Ahmad Albenny - albenahm 
