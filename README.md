@@ -36,7 +36,7 @@
 *Link of availability: https://www.name.com/domain/search/smartchargers.com*
 
 #### For Developer understanding:
-*  Our product is a smart shoe that generates electricity through movement which is stored in a mobile battery which will be useful for the users to carry the battery attached to the shoe
+* Our product is a smart shoe that generates electricity through movement which is stored in a mobile battery which will be useful for the users to carry the battery attached to the shoe
     anywhere the user wants without searching for sockets and take chargers along with them. The shoe has a pedometer and a location sensor that helps users to tracke their footsteps. 
     Our smart shoe is a multi-purpose shoe which can be used for fitness, as a tracker as well as for charging the mobile phone. We like to have a store in our website which offer 
     different models of shoes it can be casual, formal, sporty etc., for men, women and children. Also the slogan to be added for our website which will be as follows and, this
@@ -47,3 +47,23 @@
 * The Layout of the website should be user friendly and device independant.
 * More details about the Website is mentioned in the VisualStyle.html
 
+# Assingment-2b
+
+###Client: Group 8 
+###Bread and Butter.Co, Est.1978
+####Name:
+        Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian
+## Developers Responsible: 
+    Ahmad Albenny - albenahm 
+    Priyanka Balaji - balajpri2021
+##Pages Developers Responsible for:
+### 1. Priyanka Balaji   
+* HomePage => home.html
+* Menus => menu.html
+  * Cakes and Pastries
+  * Biscuits
+  * Chocolate
+  * Vegan
+* Services => service.html
+  * Catering
+  * Home delivery
