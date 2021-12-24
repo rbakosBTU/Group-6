@@ -56,7 +56,7 @@
 ## Developers Responsible: 
     Ahmad Albenny - albenahm 
     Priyanka Balaji - balajpri2021
-##Pages Developers Responsible for:
+## Pages Developers Responsible for:
 ### 1. Priyanka Balaji   
 * HomePage => home.html
 * Menus => menu.html
