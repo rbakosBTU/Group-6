@@ -67,3 +67,6 @@
 * Services => service.html
   * Catering
   * Home delivery
+* Creation of Style Sheet
+* header.html
+* footer.html
