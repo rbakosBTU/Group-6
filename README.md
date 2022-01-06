@@ -58,15 +58,15 @@
     Priyanka Balaji - balajpri2021
 ## Pages Developers Responsible for:
 ### 1. Priyanka Balaji   
-* HomePage => home.html
-* Menus => menu.html
-  * Cakes and Pastries
-  * Biscuits
-  * Chocolate
-  * Vegan
+* HomePage => Home.xhtml
+* Menus => Menu.xhtml
+  * Cakes and Pastries => CakesnPastries.xhtml
+  * Biscuits => Biscuits.xhtml
+  * Chocolate => Chocolate.xhtml
+  * Vegan => Vegan.xhtml
 * Services => service.html
-  * Catering
-  * Home delivery
-* Creation of Style Sheet
-* header.html
-* footer.html
+  * Catering => Catering.xhtml
+  * Home delivery => HomeD.xhtml
+* Creation of Style Sheet  => Style.css
+* header.xhtml
+* footer.xhtml
