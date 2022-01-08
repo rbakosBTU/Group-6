@@ -67,7 +67,7 @@
 * Services => Services.html
   * Catering => Catering.xhtml
   * Home delivery => HomeD.xhtml
-  [Combined into a Single Page(Services.xhtml) as per developer request]
+  [Combined into a Single Page(Services.xhtml) as per developer response to Issue(Services Web Page #6-https://github.com/lathangi/Web-Docs-Assignments/issues/6)]
 * Creation of Style Sheet  => Style.css(Majority Contribution)
 	* Creation of Breadcrumbs and Responsive navigation bar
 	* Selection of color and fonts(sizes, styles and weights) for the pages widely
