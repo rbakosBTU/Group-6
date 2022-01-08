@@ -64,9 +64,15 @@
   * Biscuits => Biscuits.xhtml
   * Chocolate => Chocolate.xhtml
   * Vegan => Vegan.xhtml
-* Services => service.html
+* Services => Services.html
   * Catering => Catering.xhtml
   * Home delivery => HomeD.xhtml
-* Creation of Style Sheet  => Style.css
-* header.xhtml
-* footer.xhtml
+  [Combined into a Single Page(Services.xhtml) as per developer request]
+* Creation of Style Sheet  => Style.css(Majority Contribution)
+	* Creation of Breadcrumbs and Responsive navigation bar
+	* Selection of color and fonts(sizes, styles and weights) for the pages widely
+	* Creation of FlexBox
+	* Responsive Image Hovers
+	* Browser Resolution
+* Integration of Header
+* Integration of Footer
