@@ -74,5 +74,6 @@
 	* Creation of FlexBox
 	* Responsive Image Hovers
 	* Browser Resolution
+	* Creation of background color animation
 * Integration of Header
 * Integration of Footer
