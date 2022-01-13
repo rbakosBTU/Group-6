@@ -25,8 +25,9 @@ h2 {
 p {
   margin-left: 200px;
   margin-right: 200px;
-  margin-bottom: 125px;
+  margin-bottom: 75px;
   font-size: 18px;
+  line-height: 200%;
 }
 
 body,html {
@@ -69,6 +70,7 @@ body,html {
   display: flex;
   background-color: #f3f3f3;
   text-align: center;
+  margin-top: 100px;
 }
 
 .img1 {
@@ -87,6 +89,7 @@ table {
   margin-right: 200px;
   margin-top: 25px;
   margin-bottom: 25px;
+  width: 100%;
 }
 
 td {
@@ -95,5 +98,50 @@ td {
 }
 
 td:hover {
-  color: grey;
+  color: darkgrey;
 }
+
+tr {
+  line-height: 150%;
+}
+
+a {
+  color: #77dd77;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #50cc50;
+}
+
+ul {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 60px;
+  font-size: 18px;
+}
+
+li {
+  line-height: 200%;
+}
+
+button {
+  margin: auto;
+  display: block;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Roboto Condensed';
+  font-weight: 400;
+  background-color: #77dd77;
+  padding: 10px 30px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #50cc50;
+}
+
